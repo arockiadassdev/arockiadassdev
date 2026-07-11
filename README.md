@@ -90,11 +90,36 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=arockiadassdev&show_icons=true&theme=synthwave&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arockiadassdev&theme=synthwave&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=arockiadassdev&theme=synthwave&hide_border=true" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arockiadassdev&layout=compact&theme=synthwave&hide_border=true" height="165"/>
 
 <img src="https://github-readme-trophies.vercel.app/?username=arockiadassdev&theme=synthwave&no-frame=true&row=1&column=6" width="90%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arockiadassdev&theme=synthwave&hide_border=true" width="90%"/>
+
+</div>
+
+## ▸ CURRENTLY_BUILDING
+
+```
+[→] Deepening MLOps: MLflow experiment tracking, CI/CD for model deployment
+[→] Advanced SQL: window functions, query optimization at scale
+[→] Exploring LLM/GenAI applications for BI reporting
+```
+
+## ▸ CONNECT
+
+```
+Open to full-time Data Scientist / ML Engineer / Data Analyst roles
+Available for interviews — response within 24hrs
+```
+
+<div align="center">
+
+[![](https://img.shields.io/badge/RESUME-00ffe1?style=for-the-badge&labelColor=0f0c29)](https://github.com/arockiadassdev/arockiadassdev/blob/main/resume.pdf)
+[![](https://img.shields.io/badge/LINKEDIN-ff00c8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29)](https://linkedin.com/in/arockiadass-s)
+[![](https://img.shields.io/badge/EMAIL-00ffe1?style=for-the-badge&logo=gmail&logoColor=0f0c29&labelColor=0f0c29)](mailto:arockiadassdev@gmail.com)
 
 </div>
 
