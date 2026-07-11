@@ -89,14 +89,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arockiadassdev&show_icons=true&theme=synthwave&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=arockiadassdev&show_icons=true&theme=synthwave&hide_border=true&cache_seconds=86400" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=arockiadassdev&theme=synthwave&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arockiadassdev&layout=compact&theme=synthwave&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arockiadassdev&layout=compact&theme=synthwave&hide_border=true&cache_seconds=86400" height="165"/>
 
-<img src="https://github-readme-trophies.vercel.app/?username=arockiadassdev&theme=synthwave&no-frame=true&row=1&column=6" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=arockiadassdev&theme=algolia&no-frame=true&row=1&column=6" width="90%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arockiadassdev&theme=synthwave&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arockiadassdev&theme=react-dark&hide_border=true" width="90%"/>
 
 </div>
 
