@@ -1,54 +1,61 @@
-<div align="center">
+<table width="100%" border="0">
+<tr>
+<td width="30%" valign="top" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=150&text=AROCKIADASS%20S&fontColor=00ffe1&fontSize=40&fontAlignY=55" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=arockiadassdev&show_icons=false&theme=default&hide_border=true&hide_title=true" width="100%"/>
 
-<h3>⚡ DATA SCIENTIST // AI + ML ENGINEER ⚡</h3>
+<h2>Arockiadass S</h2>
+<p><i>Data Scientist</i></p>
 
-![](https://img.shields.io/badge/STATUS-OPEN__TO__WORK-00ffe1?style=flat-square&labelColor=0f0c29)
-![](https://img.shields.io/badge/BASE-BENGALURU__IN-ff00c8?style=flat-square&labelColor=0f0c29)
-![](https://img.shields.io/badge/CERT-DATAMITES__CDS-00ffe1?style=flat-square&labelColor=0f0c29)
+📍 Bengaluru, India
 
-[![](https://img.shields.io/badge/LINKEDIN-ff00c8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29)](https://linkedin.com/in/arockiadass-s)
-[![](https://img.shields.io/badge/EMAIL-00ffe1?style=for-the-badge&logo=gmail&logoColor=0f0c29&labelColor=0f0c29)](mailto:arockiadassdev@gmail.com)
-[![](https://img.shields.io/badge/GITHUB-ff00c8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)](https://github.com/arockiadassdev)
+<a href="https://linkedin.com/in/arockiadass-s">LinkedIn</a><br/>
+<a href="mailto:arockiadassdev@gmail.com">Email</a><br/>
+<a href="https://github.com/arockiadassdev">GitHub</a>
 
-</div>
+<br><br>
+
+**Certifications**
+- DataMites CDS
+- AWS Cloud Practitioner
+- SQL, Simplilearn
 
 <br>
 
-## ▸ SYSTEM.LOG
+**Stack**
+`Python` `SQL` `Scikit-learn`
+`TensorFlow` `Tableau` `Power BI`
+`AWS` `Docker` `MLflow`
 
-```
-[3.5+ yrs] engineering experience → full ML lifecycle transition
-[88%+]     average model accuracy across deployed classifiers
-[20%]      reduction in healthcare claim errors
-[₹8L+]     revenue leakage surfaced via data storytelling
-```
+</td>
+<td width="70%" valign="top">
 
-## ▸ TECH_ARRAY
+### About
 
-<div align="center">
+Data Scientist with 3.5+ years of engineering experience, now fully applying Machine Learning, AI, and Data Analytics end-to-end — from pipeline design and statistical modeling through deployment and monitoring.
 
-![Python](https://img.shields.io/badge/-PYTHON-0f0c29?style=for-the-badge&logo=python&logoColor=00ffe1)
-![SQL](https://img.shields.io/badge/-SQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=ff00c8)
-![TensorFlow](https://img.shields.io/badge/-TENSORFLOW-0f0c29?style=for-the-badge&logo=tensorflow&logoColor=00ffe1)
-![Tableau](https://img.shields.io/badge/-TABLEAU-0f0c29?style=for-the-badge&logo=tableau&logoColor=ff00c8)
-![AWS](https://img.shields.io/badge/-AWS-0f0c29?style=for-the-badge&logo=amazonaws&logoColor=00ffe1)
-![Docker](https://img.shields.io/badge/-DOCKER-0f0c29?style=for-the-badge&logo=docker&logoColor=ff00c8)
+- 🎯 Reduced healthcare claim errors by **20%**
+- 🤖 Built ML models averaging **88%+ accuracy**
+- 💰 Identified **₹8,00,000+** in revenue leakage through data storytelling
+- 📊 Delivered executive-facing Tableau & Power BI dashboards
 
-</div>
+### Experience
 
-## ▸ DEPLOYED_PROJECTS
+**Data Scientist**, Rubixe AI Solutions — *Jan 2026–Present*
+Built and deployed 3+ ML models; engineered pipelines for 100K+ records; dashboards used by 5+ stakeholders.
 
-| MODULE | STACK | OUTPUT |
-|---|---|---|
-| `churn_predictor.py` | Scikit-learn, SMOTE, Streamlit | 89% ACC / 0.87 F1 |
-| `sales_dashboard.sql` | PostgreSQL, Tableau | ₹8L+ LEAKAGE FOUND |
+**Software Engineer**, Evolent Health — *Aug 2023–Mar 2024*
+Processed 500K+ healthcare claim records, cutting errors ~20%.
 
-## ▸ ANALYTICS
+### Featured Projects
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arockiadassdev&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0f0c29&title_color=00ffe1&icon_color=ff00c8&text_color=c9c9c9" height="165"/>
-</div>
+**📉 Customer Churn Prediction** — Random Forest, 70K+ rows, 89% accuracy, deployed on Streamlit
+**📊 Sales Analytics Dashboard** — Tableau + PostgreSQL, ₹8L+ leakage surfaced
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,50:302b63,100:0f0c29&height=60" width="100%"/>
+<br>
+
+<img src="https://github-readme-trophies.vercel.app/?username=arockiadassdev&theme=flat&no-frame=true&row=1&column=6" width="100%"/>
+
+</td>
+</tr>
+</table>
