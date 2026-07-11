@@ -72,3 +72,7 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,50:302b63,100:0f0c29&height=60" width="100%"/>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=arockiadassdev&show_icons=true&theme=default&hide_border=true" height="150"/>
+</div>
