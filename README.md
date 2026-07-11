@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=150&text=AROCKIADASS%20S&fontColor=00ffe1&fontSize=40&fontAlignY=55" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FFE1&center=true&vCenter=true&width=600&lines=DATA+SCIENTIST+%2F%2F+AI+%2B+ML+ENGINEER;PYTHON+%C2%B7+SQL+%C2%B7+TENSORFLOW+%C2%B7+TABLEAU;88%25%2B+AVG+MODEL+ACCURACY;OPEN+TO+WORK+%2F%2F+BENGALURU%2C+IN" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FFE1&center=true&vCenter=true&width=650&lines=DATA+SCIENTIST+%2F%2F+AI+%2B+ML+ENGINEER;PYTHON+%C2%B7+SQL+%C2%B7+TENSORFLOW+%C2%B7+TABLEAU;88%25%2B+AVG+MODEL+ACCURACY;3.5%2B+YRS+ENGINEERING+%C2%B7+DATAMITES+CDS;OPEN+TO+WORK+%2F%2F+BENGALURU%2C+IN" />
 
 ![](https://img.shields.io/badge/STATUS-OPEN__TO__WORK-00ffe1?style=flat-square&labelColor=0f0c29)
 ![](https://img.shields.io/badge/BASE-BENGALURU__IN-ff00c8?style=flat-square&labelColor=0f0c29)
@@ -24,6 +24,7 @@
 [88%+]     average model accuracy across deployed classifiers
 [20%]      reduction in healthcare claim errors
 [₹8L+]     revenue leakage surfaced via data storytelling
+[100%]     sprint delivery rate across Agile/Scrum ML cycles
 ```
 
 ## ▸ TECH_ARRAY
@@ -40,8 +41,27 @@
 ![Docker](https://img.shields.io/badge/-DOCKER-0f0c29?style=for-the-badge&logo=docker&logoColor=ff00c8)
 ![MLflow](https://img.shields.io/badge/-MLFLOW-0f0c29?style=for-the-badge&logo=mlflow&logoColor=00ffe1)
 ![Streamlit](https://img.shields.io/badge/-STREAMLIT-0f0c29?style=for-the-badge&logo=streamlit&logoColor=ff00c8)
+![Pandas](https://img.shields.io/badge/-PANDAS-0f0c29?style=for-the-badge&logo=pandas&logoColor=00ffe1)
+![GCP](https://img.shields.io/badge/-GCP-0f0c29?style=for-the-badge&logo=googlecloud&logoColor=ff00c8)
 
 </div>
+
+## ▸ WORK_HISTORY
+
+```
+[Jan 2026 – Present]  Data Scientist @ Rubixe AI Solutions, Bengaluru
+                      → Deployed 3+ ML models (88%+ avg accuracy)
+                      → Built pipelines processing 100K+ records
+                      → Dashboards tracked by 5+ stakeholders
+
+[Aug 2023 – Mar 2024] Software Engineer (Data-Focused) @ Evolent Health, Pune
+                      → Processed 500K+ healthcare claim records
+                      → Cut claim processing errors by 20%
+
+[Jan 2021 – Jul 2023] Software Developer @ Azure SoftTech Solutions, Chennai
+                      → Shipped full-stack app for 1,000+ SKUs
+                      → Reduced page load time by 35%
+```
 
 ## ▸ DEPLOYED_PROJECTS
 
@@ -49,6 +69,13 @@
 |---|---|---|
 | `churn_predictor.py` | Scikit-learn, SMOTE, Streamlit | 89% ACC / 0.87 F1 |
 | `sales_dashboard.sql` | PostgreSQL, Tableau | ₹8L+ LEAKAGE FOUND |
+
+## ▸ EDUCATION
+
+```
+[2020 – 2022] M.Sc. Computer Science — Don Bosco College, Yelagiri Hills
+              Coursework: ML, Statistical Methods, Database Systems, Algorithms
+```
 
 ## ▸ CERT_LOG
 
