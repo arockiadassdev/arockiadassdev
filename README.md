@@ -1,62 +1,30 @@
-<div align="center">
+# Arockiadass S
 
-```
-> whoami
-Arockiadass S — Data Scientist | AI & ML Engineer
-
-> location
+**Data Scientist · AI & Machine Learning · BI Dashboards**
 Bengaluru, India
 
-> status
-Open to work: Data Scientist / ML Engineer / Data Analyst
-```
+[LinkedIn](https://linkedin.com/in/arockiadass-s) · [Email](mailto:arockiadassdev@gmail.com) · [GitHub](https://github.com/arockiadassdev)
 
-![](https://img.shields.io/badge/-DataMites%20Certified%20Data%20Scientist-000000?style=for-the-badge)
+---
 
-</div>
+Data Scientist with 3.5+ years of engineering experience, now fully transitioned into applied Machine Learning, AI, and Data Analytics. I work across the full ML lifecycle — from pipelines and statistical modeling to deployment and monitoring — and build BI dashboards that turn model output into business decisions.
 
-<br>
+**Recent impact**
+Reduced healthcare claim errors by 20% · Built ML models averaging 88%+ accuracy · Surfaced ₹8L+ in revenue leakage through data storytelling
 
-```bash
-$ cat about_me.txt
-```
+DataMites Certified Data Scientist (CDS), 2026
 
-> Data Scientist with 3.5+ years of engineering experience and a completed transition
-> into applied ML, AI, and Data Analytics. Full ML lifecycle: pipelines, statistical
-> modeling, classification/regression/NLP, deployment & monitoring.
->
-> Impact: -20% claim errors | 88%+ avg model accuracy | ₹8L+ revenue leakage found
+---
 
-```bash
-$ ls tech_stack/
-```
+### Stack
 
-<div align="center">
+Python · SQL · Scikit-learn · TensorFlow · Pandas · NumPy · Tableau · Power BI · Streamlit · MLflow · AWS · Docker · Git
 
-`Python`  `SQL`  `Scikit-learn`  `TensorFlow`  `Pandas`  `NumPy`
-`Tableau`  `Power BI`  `Streamlit`  `MLflow`  `AWS`  `Docker`  `Git`
+### Projects
 
-</div>
+**Customer Churn Prediction** — Random Forest on 70K+ rows, 89% accuracy, deployed via Streamlit
+**Sales Performance Analytics Dashboard** — Tableau + PostgreSQL, identified ₹8L+ in revenue leakage
 
-```bash
-$ ls projects/
-```
+---
 
-| project | stack | result |
-|---|---|---|
-| `customer-churn-prediction` | Python, Scikit-learn, SMOTE, Streamlit | 89% accuracy, 0.87 F1 |
-| `sales-analytics-dashboard` | SQL, PostgreSQL, Tableau | ₹8L+ leakage identified |
-
-```bash
-$ cat contact.sh
-```
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/arockiadass-s)
-[![Gmail](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail)](mailto:arockiadassdev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/arockiadassdev)
-
-<img src="https://github-readme-stats.vercel.app/api?username=arockiadassdev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="160"/>
-
-</div>
+<sub>Open to Data Scientist, ML Engineer, and Data Analyst roles</sub>
