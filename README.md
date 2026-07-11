@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arockiadass S</h1>
+<h1 align="center">Hi 👋, I'm AROCKIADASS S</h1>
 <h3 align="center">Data Scientist | AI & Machine Learning | BI Dashboards</h3>
 
 <p align="center">
